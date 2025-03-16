@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">calculator</string>
+    <string name="result1"> %1$d </string>
+    <string name="result2"> %1$d </string>
+    <string name="result3"> %1$d </string>
+
 </resources>
